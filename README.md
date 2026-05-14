@@ -40,3 +40,8 @@ The dataset used in this project can be accessed here:
 5.Visualization & Insights – Highlighted top-performing categories, customer segments, and trends.
 
 6.Deployment – Published dashboard and dataset link on GitHub with documentation.
+
+
+Dashboard 
+<img width="1311" height="732" alt="Screenshot 2026-05-14 175728" src="https://github.com/user-attachments/assets/ec708cee-cb76-42a6-87f1-09367db84e77" />
+
