@@ -27,4 +27,16 @@ The dataset used in this project can be accessed here:
 
 10.Quantity Sold vs. Profit – To identify high-volume but low-profit items.
 
-##Dashboard Interaction (https://github.com/Shruti19-17/Super-Sales-Dashboard/blob/main/sales%20dashboard.pdf)
+## Dashboard Interaction (https://github.com/Shruti19-17/Super-Sales-Dashboard/blob/main/sales%20dashboard.pdf)
+## 🔄 Process
+1.Data Collection – Gathered the SuperStore Sales dataset.
+
+2.Data Preparation – Cleaned, formatted, and standardized data.
+
+3.Data Modeling – Structured dataset into dimensions (time, region, category, segment).
+
+4.Dashboard Design – Defined KPIs and created interactive visuals.
+
+5.Visualization & Insights – Highlighted top-performing categories, customer segments, and trends.
+
+6.Deployment – Published dashboard and dataset link on GitHub with documentation.
