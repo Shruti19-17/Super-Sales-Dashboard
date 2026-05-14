@@ -6,7 +6,7 @@ A clean and interactive dashboard showcasing sales, profit, and customer insight
 The dataset used in this project can be accessed here:  
 [SuperStore Sales DataSet.xlsx](https://github.com/Shruti19-17/Super-Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx.xlsx)
 
-🎯 Essential  Question (KPIs) :
+##🎯 Essential  Question (KPIs) :
 1.Total Sales Revenue – Overall sales generated (e.g., 6.42K).
 
 2.Profit Margin – Net profit compared to sales, showing profitability.
@@ -26,3 +26,5 @@ The dataset used in this project can be accessed here:
 9.Monthly/Quarterly Sales Trends – Tracking growth and seasonal spikes.
 
 10.Quantity Sold vs. Profit – To identify high-volume but low-profit items.
+
+##Dashboard Interaction (https://github.com/Shruti19-17/Super-Sales-Dashboard/blob/main/sales%20dashboard.pdf)
