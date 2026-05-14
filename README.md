@@ -4,5 +4,5 @@ A clean and interactive dashboard showcasing sales, profit, and customer insight
 
 ## 📂 Dataset
 The dataset used in this project can be accessed here:  
-[SuperStore Sales DataSet.xlsx](https://github.com/<username>/<repo-name>/raw/main/data/SuperStore%20Sales%20DataSet.xlsx)
+[SuperStore Sales DataSet.xlsx](https://github.com/Shruti19-17/Super-Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx.xlsx)
 
